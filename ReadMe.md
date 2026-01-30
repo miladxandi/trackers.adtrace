@@ -5,13 +5,17 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap" rel="stylesheet">
 
-<style>
+[//]: # (<style>)
 
-.adtrace-readme{
-    font-family: "Vazirmatn", sans-serif;
-}
+[//]: # ()
+[//]: # (.adtrace-readme{)
 
-</style>
+[//]: # (    font-family: "Vazirmatn", sans-serif;)
+
+[//]: # (})
+
+[//]: # ()
+[//]: # (</style>)
 
 <span class="adtrace-readme" >
 <div dir="rtl" align="right">
