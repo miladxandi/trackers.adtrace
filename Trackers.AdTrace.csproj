@@ -26,6 +26,8 @@
         <PublishAot>True</PublishAot>
         <PublishTrimmed>False</PublishTrimmed>
         <GenerateDocumentationFile>False</GenerateDocumentationFile>
+        <RepositoryUrl>https://github.com/miladxandi/trackers.adtrace</RepositoryUrl>
+        <PackageProjectUrl>https://adtrace.io/</PackageProjectUrl>
     </PropertyGroup>
     <ItemGroup>
         <PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
